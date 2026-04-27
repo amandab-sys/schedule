@@ -1,0 +1,4 @@
+employee_code,accommodation_type,severity,description,starts_on,ends_on,active
+EMP001,preferred_location,soft,Prefers East clinic when possible,2026-01-01,,true
+EMP002,no_late_shifts,hard,Should not be scheduled after 16:30,2026-01-01,,true
+EMP003,no_same_day_travel,hard,Do not assign to multiple locations on the same day,2026-01-01,,true
