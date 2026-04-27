@@ -1,0 +1,4 @@
+employee_code,starts_on,ends_on,status,reason_category,notes
+EMP001,2026-05-08,2026-05-08,approved,personal,Fake sample time off
+EMP002,2026-05-15,2026-05-16,pending,vacation,Fake sample time off
+EMP003,2026-05-22,2026-05-22,approved,appointment,Fake sample time off
