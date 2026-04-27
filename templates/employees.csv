@@ -1,0 +1,4 @@
+employee_code,first_name,last_name,default_location_code,employment_status,default_weekly_hours,can_float,notes
+EMP001,Jordan,Lee,EAST,active,40,true,Fake sample employee
+EMP002,Taylor,Kim,WEST,active,32,true,Fake sample employee
+EMP003,Morgan,Patel,NORTH,active,40,false,Fake sample employee
