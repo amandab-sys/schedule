@@ -1,0 +1,6 @@
+doctor_code,doctor_name,location_code,weekday,session,skill_code,minimum_count,ideal_count,active,notes
+DOC_AVERY,Dr. Avery Stone,EAST,MONDAY,AM,technician,2,3,true,Fake sample doctor staffing rule
+DOC_AVERY,Dr. Avery Stone,EAST,MONDAY,AM,scribe,1,1,true,Fake sample doctor staffing rule
+DOC_MORGAN,Dr. Morgan Wells,WEST,TUESDAY,PM,front_desk,1,2,true,Fake sample doctor staffing rule
+DOC_MORGAN,Dr. Morgan Wells,WEST,TUESDAY,PM,technician,2,2,true,Fake sample doctor staffing rule
+DOC_RIVERA,Dr. Sofia Rivera,NORTH,WEDNESDAY,AM,testing,1,2,true,Fake sample doctor staffing rule
