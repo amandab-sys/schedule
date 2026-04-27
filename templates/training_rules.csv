@@ -1,0 +1,4 @@
+rule_code,skill_code,rule_name,requirement_type,renewal_interval_months,minimum_shadow_sessions,requires_signoff,active,notes
+TRN_FRONT_DESK,front_desk,Front Desk Onboarding,onboarding,,3,true,true,Fake sample rule
+TRN_TECH_ANNUAL,technician,Technician Annual Review,recertification,12,,true,true,Fake sample rule
+TRN_SCRIBE_SHADOW,scribe,Scribe Shadowing,onboarding,,5,true,true,Fake sample rule
