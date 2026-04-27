@@ -1,0 +1,6 @@
+employee_code,skill_code,proficiency_level,verified_on,expires_on,notes
+EMP001,front_desk,advanced,2026-01-15,,Fake sample skill
+EMP001,phone_triage,intermediate,2026-01-15,,Fake sample skill
+EMP002,technician,advanced,2026-01-20,,Fake sample skill
+EMP002,testing,intermediate,2026-01-20,,Fake sample skill
+EMP003,scribe,advanced,2026-02-01,,Fake sample skill
