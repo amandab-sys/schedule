@@ -1,0 +1,7 @@
+from_location_code,to_location_code,minutes,notes
+EAST,WEST,22,Fake sample travel time
+WEST,EAST,22,Fake sample travel time
+EAST,NORTH,18,Fake sample travel time
+NORTH,EAST,18,Fake sample travel time
+WEST,NORTH,30,Fake sample travel time
+NORTH,WEST,30,Fake sample travel time
